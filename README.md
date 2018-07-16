@@ -19,11 +19,11 @@
 ## 专业技能 ##
 
 - 掌握Java、Python语言编程
-- 了解SpringMVC、Spring、Mybatis框架
-- 掌握SQL基础，熟悉使用MySQL等数据库
+- 了解SpringMVC、Spring、Mybatis、SpringBoot框架
+- 掌握SQL基础，熟悉MySQL等数据库的使用
 - 掌握jQuery 、Bootstrap等前端框架
-- 掌握使用Tomcat、Maven、Git、SVN中间件及工具
-- 掌握使用idea、Eclipse、Pycharm等编译器
+- 掌握Tomcat、Maven、Git、SVN中间件及工具的使用
+- 掌握idea、Eclipse、Pycharm等编译器的使用
 - 了解常见设计模式
 
 ## 工作经历 ##
