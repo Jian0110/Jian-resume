@@ -9,12 +9,13 @@
 - 联系电话：18587250424
 - Emai：jian950110@gmail.com
 - 外语水平：CET-4
+- 博客地址：[https://blog.csdn.net/Mynewclass](https://blog.csdn.net/Mynewclass "CSDN"), [http://www.cnblogs.com/jian0110](http://www.cnblogs.com/jian0110 "cnblog")
 
 ## 自我评价 ##
 
 - 遇事冷静，有良好的分析问题以及解决问题能力；
 - 工作认真负责、乐于学习，乐于互助，乐于分享；
-- 热爱编程，对技术充满好奇，喜欢通过博客等方式进行简单总结与分享（[https://blog.csdn.net/Mynewclass](https://blog.csdn.net/Mynewclass "J.Jian CSDN博客",[http://www.cnblogs.com/jian0110/(http://www.cnblogs.com/jian0110/ "J.Jian CSDN博客",)）；
+- 热爱编程，对技术充满好奇，喜欢通过博客等方式进行简单总结与分享。
 
 ## 专业技能 ##
 
