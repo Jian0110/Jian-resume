@@ -14,12 +14,12 @@
 
 - 遇事冷静，有良好的分析问题以及解决问题能力；
 - 工作认真负责、乐于学习，乐于互助，乐于分享；
-- 热爱编程，对技术充满好奇，喜欢通过博客等方式进行简单总结与分享（[https://blog.csdn.net/Mynewclass](https://blog.csdn.net/Mynewclass "J.Jian CSDN博客")）；
+- 热爱编程，对技术充满好奇，喜欢通过博客等方式进行简单总结与分享（[https://blog.csdn.net/Mynewclass](https://blog.csdn.net/Mynewclass "J.Jian CSDN博客",[http://www.cnblogs.com/jian0110/(http://www.cnblogs.com/jian0110/ "J.Jian CSDN博客",)）；
 
 ## 专业技能 ##
 
 - 掌握Java、Python语言编程
-- 了解SpringMVC、Spring、Mybatis、SpringBoot框架
+- 了解SpringMVC、Spring、Mybatis框架
 - 掌握SQL基础，熟悉MySQL等数据库的使用
 - 掌握jQuery 、Bootstrap等前端框架
 - 掌握Tomcat、Maven、Git、SVN中间件及工具的使用
