@@ -9,7 +9,7 @@
 - 联系电话：18587250424
 - Emai：jian950110@gmail.com
 - 外语水平：CET-4
-- 博客地址：[https://blog.csdn.net/Mynewclass](https://blog.csdn.net/Mynewclass "CSDN"), [http://www.cnblogs.com/jian0110](http://www.cnblogs.com/jian0110 "cnblog")
+- 博客地址：[http://www.cnblogs.com/jian0110](http://www.cnblogs.com/jian0110 "cnblog")
 
 ## 自我评价 ##
 
